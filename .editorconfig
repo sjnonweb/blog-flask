@@ -1,0 +1,17 @@
+# EditorConfig is awesome: http://EditorConfig.org
+# This file is for unifying the coding style of different editors and IDEs.
+
+root = true
+
+[*]
+charset = utf-8
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+
+# python specific config
+
+# 4 space indentation
+[*.py]
+indent_style = space
+indent_size = 2
